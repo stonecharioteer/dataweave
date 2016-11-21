@@ -1,0 +1,15 @@
+#Project-specific
+#data/*
+#data/**/images/*.*
+
+#Vim swap file.
+*.swp
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# pyenv
+.python-version
